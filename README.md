@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá! Me chamo Matheus Barbosa
 
-<!--
-**MathDevBarbosa/MathDevBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div style="display: flex; align-items: center; justify-content: center;">
+  <a href="https://github.com/MathDevBarbosa/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=MathDevBarbosa&hide_title=true" />
+  </a>
+  <a href="https://github.com/MathDevBarbosa/convoychat">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=MathDevBarbosa&layout=compact&langs_count=8&hide_title=true" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+
+
+
+
