@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://beacons.ai/MathDevBarbosa">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=MathDevBarbosa&show_icons=true&theme=transparent" />
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MathDevBarbosa&layout=compact&langs_count=8&card_width=220&show_icons=true&theme=transparent" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MathDevBarbosa&show_icons=true&theme=transparent" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MathDevBarbosa&layout=compact&langs_count=8&card_width=220&show_icons=true&theme=transparent" />
   </a>
 </div>
 
